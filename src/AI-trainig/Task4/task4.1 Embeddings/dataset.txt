@@ -1,0 +1,222 @@
+To create an account, open the registration page and enter your name, email address, and password.
+New users must provide a valid email address when registering for an account.
+After submitting the registration form, the user receives an OTP by email for verification.
+The registration process is completed after the email OTP is successfully verified.
+Users should choose a strong password when creating a new account.
+An account cannot be created with an email address that is already registered.
+If registration fails, check that all required fields contain valid information.
+The username must be unique when a new account is created.
+Users can register by selecting the Create Account option on the login page.
+The registration form requires the user's full name and contact email.
+After entering registration details, click the Sign Up button to continue.
+A verification code is sent to the registered email during account creation.
+The email address must be verified before the newly created account can be used.
+Users can cancel the registration process before submitting their information.
+A successful registration redirects the user to the login page.
+The system validates the email format during account registration.
+Passwords must meet the minimum security requirements during registration.
+If an email is already registered, the user should use the login option instead.
+The account creation flow starts from the registration screen.
+Users receive confirmation after their account has been successfully created.
+To reset a password, open the login page and select Forgot Password.
+Enter the registered email address to start the password recovery process.
+An OTP is sent to the user's registered email when password recovery begins.
+The password reset process requires verification of the OTP.
+After verifying the OTP, the user can create a new password.
+Users must enter the new password twice to confirm the password change.
+The new password must satisfy the application's password requirements.
+A successful password reset allows the user to log in with the new password.
+Users who forget their password should use the Forgot Password option.
+Password recovery is available from the login screen.
+The reset link or verification code is sent to the registered email address.
+The user must have access to the registered email to recover the account.
+An invalid OTP prevents the password reset process from continuing.
+Expired OTP codes cannot be used to reset a password.
+Users can request another OTP if the previous verification code expires.
+After resetting the password, the user can return to the login page.
+The password recovery flow protects the account by requiring email verification.
+A forgotten password can be replaced after successful identity verification.
+Users should never share their password reset OTP with another person.
+The password reset process ends after the new password is saved successfully.
+To log in, enter the registered email address and password on the login page.
+Users can access their account by selecting the Login button.
+The login system checks whether the provided credentials are valid.
+Incorrect credentials prevent the user from signing in.
+A valid email and password allow the user to access the application.
+Users should verify that their email address is correct before logging in.
+The login form contains fields for email and password.
+A failed login attempt displays an authentication error.
+Users may retry the login after entering incorrect credentials.
+The system denies access when the password does not match the account.
+A successful login redirects the user to the application's home page.
+Users can log out by selecting the Logout option.
+Logging out ends the current authenticated session.
+The user should log out after using a shared computer.
+The login page provides an option to recover a forgotten password.
+Authentication is required before accessing protected account information.
+The system validates user credentials during every login attempt.
+A user cannot log in with an unverified account.
+Email verification may be required before the first successful login.
+The application creates an authenticated session after successful login.
+Users should avoid entering their credentials on unknown websites.
+If login fails repeatedly, the account may be temporarily protected.
+Account access requires valid authentication credentials.
+Users can update their profile information after logging in.
+The profile page displays the user's account information.
+Users can change their name from the profile settings.
+The registered email address can be displayed in the account profile.
+Profile changes are saved after the user selects the Save button.
+Users should verify profile information before submitting changes.
+The profile settings page allows users to manage account details.
+Users can update their contact information from account settings.
+A successful profile update displays a confirmation message.
+The system validates updated profile information before saving it.
+Users may change optional account details from the profile page.
+Profile information is available only to authenticated users.
+Users can open account settings from the main navigation menu.
+The account settings page contains personal information options.
+Users can review their stored account information before making changes.
+Changes to account details are persisted after successful submission.
+The profile page allows users to manage their personal information.
+Users can edit their display name from the account settings.
+Invalid profile information is rejected by the application.
+Users can return to their profile after saving changes.
+Account preferences can be managed from the settings page.
+Email verification confirms that the user controls the registered email address.
+A verification OTP is sent to the user's email address.
+Users must enter the correct OTP to complete verification.
+An expired verification code cannot be accepted.
+Users can request a new OTP when the previous code expires.
+The verification code is valid only for a limited amount of time.
+OTP verification is required after some account operations.
+The system checks the OTP before completing sensitive actions.
+A correct OTP allows the verification process to continue.
+An incorrect OTP causes the verification attempt to fail.
+Users should enter the OTP exactly as received.
+The verification code should not be shared with anyone.
+A new OTP invalidates the previous verification code.
+Email verification is completed after a valid OTP is submitted.
+The system displays an error when the OTP is incorrect.
+Users can request another verification code from the verification screen.
+The OTP is generated automatically by the authentication system.
+The verification process protects accounts from unauthorized access.
+Users must verify their email before using certain account features.
+A successful OTP verification displays a confirmation message.
+The system limits repeated OTP verification attempts.
+A verification code is delivered to the email associated with the account.
+The user must enter the received code within its validity period.
+If the OTP is missing, users should check their email inbox.
+Users should also check the spam folder if the verification email is not visible.
+The resend OTP option generates another verification code.
+OTP delivery depends on the email address registered with the account.
+Account verification cannot be completed without a valid code.
+Users can request a new OTP after an unsuccessful verification attempt.
+The verification screen allows users to enter their email code.
+The system confirms the account after successful email verification.
+A valid verification code proves control of the registered email.
+Users can change their password from the account security settings.
+Changing a password requires the current password for verification.
+The new password must meet the application's security rules.
+Users should avoid using previously compromised passwords.
+A password change takes effect after the new password is saved.
+The system may require the user to confirm the new password.
+Users should use different passwords for different services.
+A strong password should contain a suitable combination of characters.
+The password settings page provides options for changing credentials.
+Users can update their password after authenticating successfully.
+The current password must be entered before changing the password.
+An incorrect current password prevents the password change.
+The new password and confirmation password must match.
+A password change may invalidate existing sessions for security reasons.
+Users receive confirmation after successfully changing their password.
+Password changes should be performed from the official account settings.
+The security settings page contains password management options.
+Users can update authentication credentials from security settings.
+The application validates password strength before saving changes.
+A password that fails security requirements cannot be saved.
+Users should not reuse old passwords when changing credentials.
+The password update process protects the account from unauthorized changes.
+The user must authenticate before changing sensitive security settings.
+The account security page provides password management features.
+Users can recover account access if they forget their password.
+Account recovery begins by identifying the registered email address.
+The recovery process uses an OTP to verify the user's identity.
+Users must complete identity verification before recovering access.
+A successful recovery allows the user to create a replacement password.
+Account recovery helps users regain access without knowing the old password.
+The registered email is used to communicate account recovery instructions.
+Users who lose access to their email may need additional support.
+Recovery requests should be initiated from the official login page.
+The system protects recovery requests from unauthorized users.
+An invalid recovery code prevents access from being restored.
+Expired recovery codes must be replaced with a new code.
+Users can request another recovery code when necessary.
+The account recovery process ends after a new password is created.
+Users should contact support if the recovery process cannot be completed.
+Recovery verification confirms that the requester controls the account.
+The application may limit repeated recovery attempts for security.
+The recovery flow uses the same registered contact information.
+Users can start recovery by selecting the account recovery option.
+Successful recovery returns the user to the authentication screen.
+Account recovery is different from creating a new account.
+The recovery process does not create a second account for the user.
+Users should not create another account when they forget their password.
+The system links recovery requests to the existing user account.
+The user receives recovery instructions at the registered email.
+Security checks are performed during the account recovery process.
+The account must exist before a password recovery request can succeed.
+The recovery process helps users regain access to their existing credentials.
+Users should keep their recovery email address up to date.
+Authentication credentials include information used to prove account ownership.
+A user's email and password are commonly used as login credentials.
+Credentials should be protected from unauthorized access.
+Users should never share their authentication credentials.
+The system verifies credentials before granting account access.
+Forgotten credentials can often be recovered through the password reset flow.
+Credential recovery requires verification of the user's identity.
+Users can update their credentials through account security settings.
+The password is one of the main credentials used for authentication.
+An invalid password results in failed credential verification.
+The login system compares submitted credentials with stored account information.
+Users should use secure credentials for their accounts.
+Changing a password changes one part of the user's login credentials.
+Account credentials should be kept confidential.
+The authentication service manages credential verification.
+Users can recover access when they no longer remember their credentials.
+Credential validation occurs during the authentication process.
+The system rejects invalid authentication information.
+Account security depends on protecting user credentials.
+Users should create unique credentials for important accounts.
+The credential reset process verifies the user's registered email.
+A successful password reset restores access to the user's account.
+Users can use account recovery when login credentials are forgotten.
+The application protects stored credential information.
+The authentication process prevents unauthorized credential use.
+The system requires valid credentials before opening protected pages.
+A user can manage credentials from the security settings page.
+The account recovery flow helps users reset forgotten credentials.
+New users must complete registration before they can authenticate.
+Existing users should log in instead of creating another account.
+Registration creates a new account record in the system.
+Login authenticates an existing account.
+Password reset changes the password of an existing account.
+Email verification confirms ownership of an account email address.
+OTP verification is used during registration and recovery.
+Account creation and account recovery are different workflows.
+Password recovery should not create a new user account.
+The login process requires credentials belonging to an existing account.
+Users should choose the registration flow for first-time access.
+Users should choose the recovery flow when they cannot remember their password.
+The authentication system separates registration from password recovery.
+Account creation collects information needed to establish a new user profile.
+Account recovery restores access to an existing user profile.
+Password reset does not require creating a second profile.
+A successful registration produces a new set of account credentials.
+A successful password reset updates credentials for an existing account.
+Users can distinguish registration from recovery by their purpose.
+Registration is used when the user does not already have an account.
+Recovery is used when the user already has an account but cannot access it.
+Login is used when the user knows their valid credentials.
+Forgot Password is used when the user cannot remember the current password.
+The registration page and recovery page support different user needs.
+The authentication system guides users toward the appropriate account flow.
